@@ -1,11 +1,10 @@
-import UserInfom from "./components/UserInfom";
+function App(){
 
-function App() {
-  return (
-    <div>
-      <UserInfom />
-    </div>
-  );
+    return (
+        <>
+            
+        </>
+    )
 }
 
 export default App;
